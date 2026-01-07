@@ -31,7 +31,7 @@
 
 ---
 
-## 🌱 **Atualmente aprendendo**
+## 🌱 **Atualmente Desenvolvendo**
 - Kubernetes avançado
 - Segurança em pipelines DevOps
 - Observabilidade com OpenTelemetry
