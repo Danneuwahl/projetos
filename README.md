@@ -38,7 +38,7 @@
 ## 📈 Estatísticas do GitHub
 > Troque `SEU_USUARIO` pelo seu nome de usuário GitHub para exibir as estatísticas reais.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?usernameDanneuwahl&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 ---
