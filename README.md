@@ -31,6 +31,7 @@
 - Observabilidade com OpenTelemetry
 - Zabbix e Grafana
 - ElasticSearch
+- DataDog
 
 ---
 
